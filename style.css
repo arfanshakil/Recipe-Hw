@@ -39,3 +39,18 @@ nav{
 #logo{
     color: azure;
 }
+footer{
+    width: 100%;
+    background-color: blueviolet;
+    min-height: 50px ;
+}
+.fbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fbox p{
+    color: aliceblue;
+    font-size: 1.2rem;
+}
