@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-My new Recipe Project.........
-=======
+# My new Recipe Project.........
 
 day03
 14-3-2024
